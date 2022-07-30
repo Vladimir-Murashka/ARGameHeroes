@@ -9,18 +9,44 @@
 /* Begin PBXBuildFile section */
 		226E65702893306D005D70EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 226E656F2893306D005D70EF /* AppDelegate.swift */; };
 		226E65722893306D005D70EF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 226E65712893306D005D70EF /* ContentView.swift */; };
-		226E65742893306D005D70EF /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 226E65732893306D005D70EF /* Experience.rcproject */; };
 		226E657628933078005D70EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 226E657528933078005D70EF /* Assets.xcassets */; };
 		226E657928933078005D70EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 226E657828933078005D70EF /* Preview Assets.xcassets */; };
+		2275EC70289580AB00A8A4EE /* Doom.scn in Resources */ = {isa = PBXBuildFile; fileRef = 2275EC6F289580AB00A8A4EE /* Doom.scn */; };
+		2275EC72289580B300A8A4EE /* Juggernaut.scn in Resources */ = {isa = PBXBuildFile; fileRef = 2275EC71289580B300A8A4EE /* Juggernaut.scn */; };
+		2275EC74289580B900A8A4EE /* Mirana.scn in Resources */ = {isa = PBXBuildFile; fileRef = 2275EC73289580B900A8A4EE /* Mirana.scn */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		222EA0B1289434A60050FB70 /* file16.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file16.tga; path = "../../../../../../3D DotaHeroes/mirana/file16.tga"; sourceTree = "<group>"; };
+		222EA0B2289434A60050FB70 /* file13.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file13.tga; path = "../../../../../../3D DotaHeroes/mirana/file13.tga"; sourceTree = "<group>"; };
+		222EA0B3289434A60050FB70 /* file22.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file22.tga; path = "../../../../../../3D DotaHeroes/mirana/file22.tga"; sourceTree = "<group>"; };
+		222EA0B4289434A60050FB70 /* file1.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file1.tga; path = "../../../../../../3D DotaHeroes/mirana/file1.tga"; sourceTree = "<group>"; };
+		222EA0B5289434A60050FB70 /* file4.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file4.tga; path = "../../../../../../3D DotaHeroes/mirana/file4.tga"; sourceTree = "<group>"; };
+		222EA0B6289434A60050FB70 /* file19.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file19.tga; path = "../../../../../../3D DotaHeroes/mirana/file19.tga"; sourceTree = "<group>"; };
+		222EA0B7289434A60050FB70 /* file7.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file7.tga; path = "../../../../../../3D DotaHeroes/mirana/file7.tga"; sourceTree = "<group>"; };
+		222EA0B8289434A60050FB70 /* file10.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file10.tga; path = "../../../../../../3D DotaHeroes/mirana/file10.tga"; sourceTree = "<group>"; };
+		222EA0BC289436F40050FB70 /* file19.001.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file19.001.tga; path = "../../../../../../3D DotaHeroes/doom_bringer/file19.001.tga"; sourceTree = "<group>"; };
+		222EA0BD289436F40050FB70 /* file1.002.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file1.002.tga; path = "../../../../../../3D DotaHeroes/doom_bringer/file1.002.tga"; sourceTree = "<group>"; };
+		222EA0BE289436F40050FB70 /* file13.002.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file13.002.tga; path = "../../../../../../3D DotaHeroes/doom_bringer/file13.002.tga"; sourceTree = "<group>"; };
+		222EA0BF289436F40050FB70 /* file4.002.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file4.002.tga; path = "../../../../../../3D DotaHeroes/doom_bringer/file4.002.tga"; sourceTree = "<group>"; };
+		222EA0C0289436F40050FB70 /* file16.002.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file16.002.tga; path = "../../../../../../3D DotaHeroes/doom_bringer/file16.002.tga"; sourceTree = "<group>"; };
+		222EA0C1289436F40050FB70 /* file10.002.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file10.002.tga; path = "../../../../../../3D DotaHeroes/doom_bringer/file10.002.tga"; sourceTree = "<group>"; };
+		222EA0C2289436F40050FB70 /* file22.001.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file22.001.tga; path = "../../../../../../3D DotaHeroes/doom_bringer/file22.001.tga"; sourceTree = "<group>"; };
+		222EA0C3289436F40050FB70 /* file7.002.tga */ = {isa = PBXFileReference; lastKnownFileType = file; name = file7.002.tga; path = "../../../../../../3D DotaHeroes/doom_bringer/file7.002.tga"; sourceTree = "<group>"; };
 		226E656C2893306D005D70EF /* ARGameHeroes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARGameHeroes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		226E656F2893306D005D70EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		226E65712893306D005D70EF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		226E65732893306D005D70EF /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		226E657528933078005D70EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		226E657828933078005D70EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		226E658A289431E2005D70EF /* file4.tga */ = {isa = PBXFileReference; lastKnownFileType = file; path = file4.tga; sourceTree = "<group>"; };
+		226E658B289431E2005D70EF /* file1.tga */ = {isa = PBXFileReference; lastKnownFileType = file; path = file1.tga; sourceTree = "<group>"; };
+		226E658C289431E3005D70EF /* file7.tga */ = {isa = PBXFileReference; lastKnownFileType = file; path = file7.tga; sourceTree = "<group>"; };
+		226E658D289431E3005D70EF /* file10.tga */ = {isa = PBXFileReference; lastKnownFileType = file; path = file10.tga; sourceTree = "<group>"; };
+		226E658E289431E3005D70EF /* file13.tga */ = {isa = PBXFileReference; lastKnownFileType = file; path = file13.tga; sourceTree = "<group>"; };
+		226E658F289431E4005D70EF /* file16.tga */ = {isa = PBXFileReference; lastKnownFileType = file; path = file16.tga; sourceTree = "<group>"; };
+		2275EC6F289580AB00A8A4EE /* Doom.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = Doom.scn; path = "../../../../../3D DotaHeroes/doom_bringer/Doom.scn"; sourceTree = "<group>"; };
+		2275EC71289580B300A8A4EE /* Juggernaut.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Juggernaut.scn; sourceTree = "<group>"; };
+		2275EC73289580B900A8A4EE /* Mirana.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = Mirana.scn; path = "../../../../../3D DotaHeroes/mirana/Mirana.scn"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +60,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		222EA0AD289434580050FB70 /* 3DModels */ = {
+			isa = PBXGroup;
+			children = (
+				2275EC6F289580AB00A8A4EE /* Doom.scn */,
+				2275EC71289580B300A8A4EE /* Juggernaut.scn */,
+				2275EC73289580B900A8A4EE /* Mirana.scn */,
+			);
+			path = 3DModels;
+			sourceTree = "<group>";
+		};
+		222EA0B0289434780050FB70 /* Mirana */ = {
+			isa = PBXGroup;
+			children = (
+				222EA0B4289434A60050FB70 /* file1.tga */,
+				222EA0B5289434A60050FB70 /* file4.tga */,
+				222EA0B7289434A60050FB70 /* file7.tga */,
+				222EA0B8289434A60050FB70 /* file10.tga */,
+				222EA0B2289434A60050FB70 /* file13.tga */,
+				222EA0B1289434A60050FB70 /* file16.tga */,
+				222EA0B6289434A60050FB70 /* file19.tga */,
+				222EA0B3289434A60050FB70 /* file22.tga */,
+			);
+			path = Mirana;
+			sourceTree = "<group>";
+		};
+		222EA0BB289436D60050FB70 /* Doom */ = {
+			isa = PBXGroup;
+			children = (
+				222EA0BD289436F40050FB70 /* file1.002.tga */,
+				222EA0BF289436F40050FB70 /* file4.002.tga */,
+				222EA0C3289436F40050FB70 /* file7.002.tga */,
+				222EA0C1289436F40050FB70 /* file10.002.tga */,
+				222EA0BE289436F40050FB70 /* file13.002.tga */,
+				222EA0C0289436F40050FB70 /* file16.002.tga */,
+				222EA0BC289436F40050FB70 /* file19.001.tga */,
+				222EA0C2289436F40050FB70 /* file22.001.tga */,
+			);
+			path = Doom;
+			sourceTree = "<group>";
+		};
 		226E65632893306D005D70EF = {
 			isa = PBXGroup;
 			children = (
@@ -55,7 +121,6 @@
 			children = (
 				226E656F2893306D005D70EF /* AppDelegate.swift */,
 				226E65712893306D005D70EF /* ContentView.swift */,
-				226E65732893306D005D70EF /* Experience.rcproject */,
 				226E657528933078005D70EF /* Assets.xcassets */,
 				226E657728933078005D70EF /* Preview Content */,
 			);
@@ -66,8 +131,33 @@
 			isa = PBXGroup;
 			children = (
 				226E657828933078005D70EF /* Preview Assets.xcassets */,
+				226E65812894319A005D70EF /* Materials */,
+				222EA0AD289434580050FB70 /* 3DModels */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		226E65812894319A005D70EF /* Materials */ = {
+			isa = PBXGroup;
+			children = (
+				226E6583289431A7005D70EF /* Juggernaut */,
+				222EA0B0289434780050FB70 /* Mirana */,
+				222EA0BB289436D60050FB70 /* Doom */,
+			);
+			path = Materials;
+			sourceTree = "<group>";
+		};
+		226E6583289431A7005D70EF /* Juggernaut */ = {
+			isa = PBXGroup;
+			children = (
+				226E658B289431E2005D70EF /* file1.tga */,
+				226E658A289431E2005D70EF /* file4.tga */,
+				226E658C289431E3005D70EF /* file7.tga */,
+				226E658D289431E3005D70EF /* file10.tga */,
+				226E658E289431E3005D70EF /* file13.tga */,
+				226E658F289431E4005D70EF /* file16.tga */,
+			);
+			path = Juggernaut;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,8 +218,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2275EC72289580B300A8A4EE /* Juggernaut.scn in Resources */,
 				226E657928933078005D70EF /* Preview Assets.xcassets in Resources */,
+				2275EC70289580AB00A8A4EE /* Doom.scn in Resources */,
 				226E657628933078005D70EF /* Assets.xcassets in Resources */,
+				2275EC74289580B900A8A4EE /* Mirana.scn in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,7 +235,6 @@
 			files = (
 				226E65722893306D005D70EF /* ContentView.swift in Sources */,
 				226E65702893306D005D70EF /* AppDelegate.swift in Sources */,
-				226E65742893306D005D70EF /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
