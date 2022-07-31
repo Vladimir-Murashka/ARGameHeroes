@@ -60,14 +60,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		222EA0AD289434580050FB70 /* 3DModels */ = {
+		222EA0AD289434580050FB70 /* Models */ = {
 			isa = PBXGroup;
 			children = (
 				2275EC6F289580AB00A8A4EE /* Doom.scn */,
 				2275EC71289580B300A8A4EE /* Juggernaut.scn */,
 				2275EC73289580B900A8A4EE /* Mirana.scn */,
 			);
-			path = 3DModels;
+			path = Models;
 			sourceTree = "<group>";
 		};
 		222EA0B0289434780050FB70 /* Mirana */ = {
@@ -132,7 +132,7 @@
 			children = (
 				226E657828933078005D70EF /* Preview Assets.xcassets */,
 				226E65812894319A005D70EF /* Materials */,
-				222EA0AD289434580050FB70 /* 3DModels */,
+				222EA0AD289434580050FB70 /* Models */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
